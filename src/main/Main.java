@@ -1,4 +1,4 @@
-package com.mad;
+package main;
 
 public class Main {
 
